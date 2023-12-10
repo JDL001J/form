@@ -24,6 +24,7 @@
     text-align: center;
 }
 .image{
+    
     display: flex;
     justify-content: center;
     align-items: center;
